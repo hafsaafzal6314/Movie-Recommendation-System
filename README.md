@@ -159,3 +159,7 @@ The Streamlit interface allows users to interact with the recommendation system 
 The Movie Recommendation System demonstrates how machine learning techniques can be used to build a practical recommendation engine.
 
 By combining content-based filtering and collaborative filtering, the system provides movie recommendations through an easy-to-use Streamlit interface.
+
+👩‍💻 Author
+
+Hafsa Mohammed Afzal
